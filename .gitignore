@@ -1,0 +1,10 @@
+*.pem
+config
+fd1.sh
+maru.sh
+ds1.sh
+alamo.sh
+exports.sh
+env.*
+listen.go
+service-watcher-f5
